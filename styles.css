@@ -4,8 +4,12 @@ body {
     font-family: Arial, sans-serif;
 }
 
+h1 {
+    text-align: center;
+}
+
 .sidebar {
-    width: 0;
+    width: 10;
     height: 100%;
     position: fixed;
     top: 0;
